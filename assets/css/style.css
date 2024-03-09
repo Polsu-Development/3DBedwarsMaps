@@ -447,10 +447,6 @@ main .shard-section .offline-text {
     height: 100%;
 }
 
-.wave-divider.top {
-    background-color: var(--darker-grey);
-}
-
 .wave-divider.invert {
     transform: rotate(180deg) scale(-1, 1) translateY(0.2px);
 }
