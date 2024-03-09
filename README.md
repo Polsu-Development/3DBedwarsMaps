@@ -1,0 +1,1 @@
+Hypixel 3D Bedwars Maps - Cache of Duel's API available at https://api.duel.dev
